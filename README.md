@@ -3,10 +3,10 @@
 Python Sem 1 Mini-Project
 
 Team Members:  
-1. [Anupam G](https://github.com/g-anupam)
-2. [Archit Rode](https://github.com/Archit-Rode)
-3. [Amil Jason](https://github.com/Amiljason)
-4. [Anirudh Sudhir](https://github.com/anirudhsudhir)
+1. [Anupam G](https://github.com/g-anupam) - Worked on the single letter randomised encrytion process using Vignere cipher
+2. [Archit Rode](https://github.com/Archit-Rode) - Tkinter: Developed the GUI of the application with features such as input and display of encryption and decryption key and message.
+3. [Amil Jason](https://github.com/Amiljason) - Helped in the design of the GUI
+4. [Anirudh Sudhir](https://github.com/anirudhsudhir) - Developed the encryption pipeline and integrated the GUI and encryption unit.
 
 ### Usage:
 1. Clone this repository and navigate to the project directory:
